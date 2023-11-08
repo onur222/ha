@@ -76,14 +76,14 @@
     "config:rw",
     "ssl"
   ],
-  "name": "Calibre-web",
+  "name": "Calibre-web2",
   "options": {
     "PGID": 0,
     "PUID": 0
   },
   "panel_icon": "mdi:library",
   "ports": {
-    "8083/tcp": 8084
+    "8083/tcp": 8085
   },
   "ports_description": {
     "8083/tcp": "Calibre-web webui (Not required for Ingress)"
@@ -106,7 +106,7 @@
     "localdisks": "str?",
     "networkdisks": "str?"
   },
-  "slug": "calibre-web",
+  "slug": "calibre-web2",
   "udev": true,
   "url": "https://github.com/alexbelgium/hassio-addons/tree/master/calibre_web2",
   "version": "0.6.21-2",
