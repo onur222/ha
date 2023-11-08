@@ -1,4 +1,4 @@
-# Home assistant add-on: alexbelgium
+# Home assistant add-on: OG
 
 <!-- markdownlint-disable MD033 -->
 
